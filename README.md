@@ -1,4 +1,4 @@
-## 9733 Machine Learning
+# 9733 Machine Learning
 
 # FRE 9733 Machine Learning in Finance
 
